@@ -1,0 +1,115 @@
+📘 React Daily Learning Journey
+
+Hi 👋
+I'm Muhammad Tayyab, a Final Year Computer Science student and passionate Web Developer.
+
+This repository contains my daily React learning progress, where I practice concepts step by step while building strong fundamentals.
+
+🚀 Purpose of This Repository
+
+📚 Practice React concepts daily
+
+🧠 Strengthen core JavaScript understanding
+
+⚛️ Compare Plain JavaScript vs React concepts
+
+🛠 Improve practical development skills
+
+📈 Track my learning consistency
+
+🛠 Installation & Setup
+
+This project uses Vite + React for fast development.
+
+To run any folder locally:
+
+npm install
+npm run dev
+
+📂 Folder Structure
+📁 import and export in js
+
+ES6 Modules
+
+Named Export
+
+Default Export
+
+Import variations
+
+Difference between CommonJS and ES Modules
+
+📁 01-folder-
+
+Vite installation
+
+Project setup
+
+Basic structure understanding
+
+main.jsx & App.jsx flow
+
+📁 02-folder-components
+
+Functional Components
+
+Component Structure
+
+JSX basics
+
+Component Reusability
+
+Component Composition
+
+📁 03-...(Coming Soon)
+
+Upcoming topics:
+
+Props
+
+State
+
+Event Handling
+
+Conditional Rendering
+
+Hooks
+
+Context API
+
+Performance Optimization
+
+🧠 Learning Strategy
+
+For every topic, I focus on:
+
+Concept clarity
+
+React vs Plain JavaScript comparison
+
+Internal working
+
+Industry best practices
+
+Clean code structure
+
+📌 Tech Stack
+
+React.js
+
+Vite
+
+JavaScript (ES6+)
+
+Git & GitHub
+
+
+📬 Connect With Me
+
+📧 Email: tk7635373@gmail.com
+
+📱 Contact: 03118340188
+
+🎓 Abdul Wali Khan University, Mardan
+
+⭐ This repository will grow daily as I continue learning and building.
