@@ -61,11 +61,19 @@ Component Reusability
 
 Component Composition
 
-📁 03-...(Coming Soon)
+📁 03-folder-props-drilling
+Concepts:
+
+What is Props Drilling
+
+Passing data through multiple components
+
+Why props drilling becomes a problem
+
+Understanding unidirectional data flow
+
 
 Upcoming topics:
-
-Props
 
 State
 
