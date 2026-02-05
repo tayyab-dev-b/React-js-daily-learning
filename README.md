@@ -72,6 +72,13 @@ Why props drilling becomes a problem
 
 Understanding unidirectional data flow
 
+📁 04-folder-card-project
+working with components
+
+working with props-drilling 
+
+passing data multiple components through props-drilling
+
 
 Upcoming topics:
 
