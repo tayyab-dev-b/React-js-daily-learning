@@ -81,7 +81,7 @@ working with props-drilling
 passing data multiple components through props-drilling
 
 
-📁 05-folder-functions in ReactJs 
+📁 05-folder-functions in ReactJs :
 
 understanding functions in react 
 
