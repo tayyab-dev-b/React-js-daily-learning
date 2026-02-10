@@ -73,11 +73,23 @@ Why props drilling becomes a problem
 Understanding unidirectional data flow
 
 📁 04-folder-card-project
+
 working with components
 
 working with props-drilling 
 
 passing data multiple components through props-drilling
+
+
+📁 05-folder-functions in ReactJs 
+
+understanding functions in react 
+
+how call to function 
+
+different method to call the function 
+
+working with function with different methods
 
 
 Upcoming topics:
