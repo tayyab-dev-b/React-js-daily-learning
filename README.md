@@ -3,7 +3,7 @@
 Hi 👋
 I'm Muhammad Tayyab, a Final Year Computer Science student and passionate Web Developer.
 
-This repository contains my daily React learning progress, where I practice concepts step by step while building strong fundamentals.
+This repository contains my daily React learning progress, where I practice concepts step by step while building strong fundamentals.And using tailwind css.
 
 🚀 Purpose of This Repository
 
@@ -16,6 +16,8 @@ This repository contains my daily React learning progress, where I practice conc
 🛠 Improve practical development skills
 
 📈 Track my learning consistency
+
+Using tailwind css
 
 🛠 Installation & Setup
 
@@ -90,6 +92,16 @@ how call to function
 different method to call the function 
 
 working with function with different methods
+
+
+📁 06-usestate-hook in react js:
+learn about state hook
+
+how its works 
+
+how render the page through react hook/usestate
+
+and make a mini project with increase and decrease a number value
 
 
 Upcoming topics:
