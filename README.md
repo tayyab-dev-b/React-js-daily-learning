@@ -103,16 +103,21 @@ how render the page through react hook/usestate
 
 and make a mini project with increase and decrease a number value
 
+📁07-form handelling:
+
+understand how to handle form through ReactJS
+
+how form prevent 
+
+practice on handle and submit form
+
+
 
 Upcoming topics:
-
-State
 
 Event Handling
 
 Conditional Rendering
-
-Hooks
 
 Context API
 
