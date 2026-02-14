@@ -111,11 +111,18 @@ how form prevent
 
 practice on handle and submit form
 
+📁08-two way binding:
+
+learn two way binding 
+
+how state updates with onchange function
+
+how ui take the input 
+
+how states change ,etc
 
 
 Upcoming topics:
-
-Event Handling
 
 Conditional Rendering
 
