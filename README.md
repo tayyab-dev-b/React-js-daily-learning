@@ -122,6 +122,17 @@ how ui take the input
 how states change ,etc
 
 
+📁09-notes project:
+
+understand how data flow :
+
+understand the usestate use in real 
+
+practice on responsivness
+
+add the remove feature to the cards
+
+
 Upcoming topics:
 
 Conditional Rendering
