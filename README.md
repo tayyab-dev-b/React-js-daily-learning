@@ -133,6 +133,23 @@ practice on responsivness
 add the remove feature to the cards
 
 
+📁10-Local-Storage:
+learn:
+what is local storage
+
+how we store our frontend data in local-storage
+
+how local storage works
+
+practice 4 methods of local storage:
+
+1: setItem method
+2:getItem method
+3:remove method
+4:clear method
+
+
+
 Upcoming topics:
 
 Conditional Rendering
