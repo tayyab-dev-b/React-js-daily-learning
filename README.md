@@ -142,11 +142,26 @@ how we store our frontend data in local-storage
 how local storage works
 
 practice 4 methods of local storage:
-
 1: setItem method
 2:getItem method
 3:remove method
 4:clear method
+
+
+📁11-Api calling:
+
+cover two concepts:
+1:fetch Api
+2:axios Api
+
+how api's handle request 
+
+how sends requests
+
+how recieves response
+
+
+
 
 
 
