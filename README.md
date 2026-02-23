@@ -161,7 +161,13 @@ how sends requests
 how recieves response
 
 
+📁12-useefeect-hook:
 
+understand useeffect hook
+
+how useeffect hook works in reactJS
+
+how used for side effects/rendering
 
 
 
