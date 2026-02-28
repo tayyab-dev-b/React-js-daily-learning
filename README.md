@@ -169,6 +169,17 @@ how useeffect hook works in reactJS
 
 how used for side effects/rendering
 
+📁130-Gallery project:
+A simple photo gallery app built with React that fetches and displays images from the Picsum Photos API.
+
+## Features
+
+- Paginated image gallery (10 images per page)
+- Previous/Next navigation buttons
+- Disable prev button on first page
+- Shows current page number
+- Responsive grid layout with Tailwind CSS
+- Loading state display
 
 
 Upcoming topics:
