@@ -169,7 +169,7 @@ how useeffect hook works in reactJS
 
 how used for side effects/rendering
 
-📁130-Gallery project:
+📁13-Gallery project:
 A simple photo gallery app built with React that fetches and displays images from the Picsum Photos API.
 
 ## Features
@@ -180,6 +180,15 @@ A simple photo gallery app built with React that fetches and displays images fro
 - Shows current page number
 - Responsive grid layout with Tailwind CSS
 - Loading state display
+
+
+📁14-react-router-dom:
+
+learn about basic route(browser Route)
+
+makes different routes (Home,About)
+
+How routes works 
 
 
 Upcoming topics:
