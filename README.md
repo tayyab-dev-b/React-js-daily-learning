@@ -191,6 +191,15 @@ makes different routes (Home,About)
 How routes works 
 
 
+📁15-Advance-Routing:
+
+learn advance routing
+
+1:Nested Routing:
+2:Dynamic Routing:
+and some other stuff about routing
+
+
 Upcoming topics:
 
 Conditional Rendering
