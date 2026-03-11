@@ -200,11 +200,19 @@ learn advance routing
 and some other stuff about routing
 
 
-Upcoming topics:
+📁16-context-api:
 
-Conditional Rendering
+learn problem with props drilling
 
-Context API
+why use context api
+
+what is context api
+
+make a mini toggle buttom project 
+
+learn how to use context api
+
+
 
 Performance Optimization
 
